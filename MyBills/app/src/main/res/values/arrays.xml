@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="payee_type">
+        <item>None</item>
+        <item>Bank</item>
+        <item>Church</item>
+        <item>Cable/Intenet</item>
+        <item>Communication</item>
+        <item>Credit Card</item>
+        <item>Insurance</item>
+        <item>Medical</item>
+        <item>Mortgage</item>
+        <item>Student Loans</item>
+        <item>Utility</item>
+    </string-array>
+
+    <string-array name="payee_type_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="payment_frequency">
+        <item>None</item>
+        <item>Twice a Week</item>
+        <item>Weekly</item>
+        <item>Twice a Month</item>
+        <item>Monthly</item>
+        <item>Every Two Months</item>
+        <item>Twice a Year</item>
+        <item>Yearly</item>
+        <item>Every Two Years</item>
+    </string-array>
+
+    <string-array name="payment_frequency_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="payment_method">
+        <item>None</item>
+        <item>On-line</item>
+        <item>Postal Service</item>
+        <item>In Person</item>
+    </string-array>
+
+    <string-array name="payment_method_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>
